@@ -22,9 +22,7 @@ Stopwords Removal
 POS (Part-of-Speech) Tagging
 
 🔄 Upcoming Topics
-
-Stemming
-Lemmatization
+n_grams
 Bag of Words
 TF-IDF
 Word Embeddings
