@@ -27,7 +27,6 @@ Bag of Words
 TF-IDF
 Word Embeddings
 Text Classification
-Deep Learning for NLP
 Transformers & BERT
 
 ⚙️ Tools & Libraries Used
